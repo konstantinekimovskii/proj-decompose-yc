@@ -1,0 +1,3 @@
+# проектик for example + decompose
+
+---
